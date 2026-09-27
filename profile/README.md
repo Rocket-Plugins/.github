@@ -2,7 +2,7 @@
 
 
 ## What is Rocket Plugins? 🤔
-Rocket Plugins is an open source Minecraft Java Edition plugin and library development organization. We specialize in-
+Rocket Plugins is an open source Minecraft Java Edition plugin and library development organization. We specialize in
 utilities designed to give server owners more control over their players.
 
 ## Contribution guide ⚙️
